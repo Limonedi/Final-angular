@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #17a2b8;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    color: rgb(99, 98, 98);
+  }
+  
+  .nav-link {
+    color: #fff;
+    margin-right: 1rem;
+  }
+  
+  .nav-link:hover {
+    color: #f8f9fa;
+  }
+  
+  .btn-outline {
+    /*border-color: #fff;
+    color: #fff;*/
+    float: right;
+  }
+  
+  .btn-outline:hover {
+    background-color: #fff;
+    color: #17a2b8;
+  }
+  

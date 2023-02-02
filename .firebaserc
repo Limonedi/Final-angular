@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ang31f"
+  },
+  "targets": {
+    "ang31f": {
+      "hosting": {
+        "31fin": [
+          "ang31f"
+        ]
+      }
+    }
+  }
+}
